@@ -1,0 +1,19 @@
+.test-list {
+  display: grid;
+  gap: 20px;
+}
+
+.test-card {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.start-button {
+  display: inline-block;
+  padding: 8px 16px;
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
